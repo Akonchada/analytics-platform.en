@@ -97,3 +97,7 @@ For a more in-depth discussion stitching functionality, go to:
 * [How stitching works](../stitching/explained.md)
 * [Frequently Asked Questions](/help/stitching/faq.md)
 
+
+
+
+
